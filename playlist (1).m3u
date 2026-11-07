@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Кино International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,Москва Доверие
+https://vsd113.okcdn.ru/hls/17791197973163.m3u8/sig/nIrPnNnVoOs/expires/1794120733534/srcIp/82.215.111.29/urls/95.163.35.101/clientType/0/srcAg/CHROME/mid/15472694664875/17791197973163_high/index.m3u8
+#EXTINF:-1,Звезда +0
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Звезда +2
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Звезда Плюс
+https://vsd277.okcdn.ru/hls/16893769091629.m3u8/sig/kvEMVs3lgC4/expires/1794121543845/srcIp/82.215.111.29/urls/176.112.172.108/clientType/0/srcAg/CHROME/mid/15876175961645/16893769091629_high/index.m3u8
+#EXTINF:-1,Че
+https://salam-uz-uztel-157.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/UX-29-mYQPjqBtujBUw7YQ/stream/genetta-318.m9.rutube.ru/PD9tm3fKF8EjeDlVGf1CGw/1794641731/5bbff90167d1b1d88fda92376ec7a651/576p_stream.m3u8
+#EXTINF:-1,Че +4
+https://vsd195.okcdn.ru/hls/7629212093055.m3u8/sig/WyvB0w2JlW4/expires/1794123395521/srcIp/82.215.111.29/urls/185.226.55.117/clientType/0/srcAg/CHROME/mid/8755107733119/7629212093055_high/index.m3u8
+#EXTINF:-1,Домашний
+https://vsd210.okcdn.ru/hls/12643243985528.m3u8/sig/Y2mcIfXd9ss/expires/1794123514059/srcIp/82.215.111.29/urls/176.112.172.116/clientType/0/srcAg/CHROME/mid/13462621396600/12643243985528_high/index.m3u8
+#EXTINF:-1,ТВ-3
+https://vsd495.okcdn.ru/hls/7983656733302.m3u8/sig/nN11gqKEXFI/expires/1794123597516/srcIp/82.215.111.29/urls/176.112.172.109/clientType/0/srcAg/CHROME/mid/9344408428150/7983656733302_high/index.m3u8
+#EXTINF:-1,НТВ
+https://htf10.ontv.red/hlsp/pntv/index.m3u8
+#EXTINF:-1,НТВ +2
+https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
